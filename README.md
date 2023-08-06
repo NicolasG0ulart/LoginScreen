@@ -4,6 +4,10 @@
 
 <p align="center">Tela de Cadastro com tratamento de erros</p>
 
+
+## PROJETO EM ANDAMENTO
+
+
 ## Tecnologias utilizadas no projeto
 * React JS
 * Styled-components
